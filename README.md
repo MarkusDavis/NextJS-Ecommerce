@@ -25,7 +25,6 @@ The Next.js E-Commerce Website is a sleek and secure full-stack application buil
 
 ## Credits
 
-- [Anton Mikhaltsov](https://dribbble.com/shots/9404340-Shop-Clothing-Web-Page) for the original design on Dribbble
 
 ## License
 
